@@ -1,0 +1,87 @@
+.bgc 
+{
+	background: #ADD8E6;
+}
+.secondbg 
+{
+	background-color:#e0f6ff;
+	
+}
+.format 
+{
+	margin: 100px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.locyear 
+{
+	float: right;
+	min-width:171px;
+	max-width:300px;
+}
+.lhresume 
+{
+	line-height: 0%;
+}
+.center 
+{
+	text-align: center;
+	justify-content: center;
+}
+.underline 
+{
+	text-decoration: underline;
+}
+.banner 
+{
+	list-style-type: none;
+	text-decoration: none;
+	justify-content: space-between;
+  background: lightskyblue;
+  background-color: lightskyblue;
+}
+.rightfloat 
+{
+	font-size: small;
+	float: right;
+	margin-top: 15px;
+}
+a 
+{
+	padding-right: 30px;
+	text-decoration: none;
+	color: black;
+}
+a:visited 
+{
+	color: black;
+}
+a:hover 
+{
+	color: white;
+	text-decoration: underline;
+}
+a:active 
+{
+	color: black;
+}
+.border 
+{
+	background: #dbffdd;
+	overflow: auto;
+}
+
+body 
+{
+	font-family: "Times New Roman", Georgia;
+}
+footer 
+{
+	list-style-type: none;
+	background-color: #333;
+	color: white;
+	text-align: center;
+	padding: 14px 0px;
+	text-decoration: none;
+	justify-content: space-between;
+}
