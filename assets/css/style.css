@@ -92,7 +92,12 @@ a:active
   float: right;
   width: 50%;
   padding: 0px;
-
+}
+.headerbg 
+{
+	background: #87CEFA;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 h2 
 {
