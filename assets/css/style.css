@@ -19,10 +19,7 @@
 	min-width:171px;
 	max-width:300px;
 }
-.lhresume 
-{
-	line-height: 0%;
-}
+
 .center 
 {
 	text-align: center;
@@ -67,10 +64,42 @@ a:active
 }
 .border 
 {
-	background: #dbffdd;
+	background: #e0f6ff;
 	overflow: auto;
 }
+.topz
+{
+	padding-top: 0px;
+}
+.introphoto 
+{
+	float: left;
+}
 
+.introtext 
+{
+	padding-top: 7px;
+}
+.columnL
+{
+  float: left;
+  width: 50%;
+  padding: 0px;
+
+}
+.columnR
+{
+  float: right;
+  width: 50%;
+  padding: 0px;
+
+}
+h2 
+{
+	background: #87CEFA;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
 body 
 {
 	font-family: "Times New Roman", Georgia;
