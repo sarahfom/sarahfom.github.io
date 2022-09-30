@@ -13,7 +13,7 @@ Lab4
 
 ### Identify what aspects of the work have been correctly implemented and what have not.
 
-* Functionality wise, everything works as anticipated.
+* Functionality wise, everything works as anticipated. It passes the validator for css and html.
 
 ### Identify anyone with whom you have collaborated or discussed the lab.
 
@@ -21,4 +21,4 @@ Lab4
 
 ### Say approximately how many hours you have spent completing the lab.
 
-* 16 hours.
+* 17 hours.
