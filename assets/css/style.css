@@ -90,10 +90,7 @@
 {
   	padding-left: 0px;
 }
-.container 
-{
-		display: flex;
-}
+
 a 
 {
 	padding-right: 30px;
@@ -133,22 +130,12 @@ footer
 	text-decoration: none;
 	justify-content: space-between;
 }
-@media screen and (max-width: 1000px) 
+@media screen and (min-width: 750px) 
 {
-  h1 
-  {
-  	font-size: 30px;
-  }
-  h2 
-  {
-  	font-size: 20px;
-  }
-  .introphoto 
-  {
-  	width: 350px;
-  	height:205px; 
-  }
-
+	.container 
+	{
+			display: flex;
+	}
 }
 @media screen and (max-width: 600px) 
 {
@@ -169,5 +156,38 @@ footer
 	{
 		font-size: small;
 		float: right;
+	}
+}
+@media screen and (max-width: 320px) 
+{
+  h1 
+  {
+  	font-size: 30px;
+  }
+  h2 
+  {
+  	font-size: 20px;
+  }
+  .introphoto 
+  {
+  	width: 105px;
+  	height: 105px;
+  }
+	.rightfloat 
+	{
+		font-size: small;
+		float: right;
+	}
+	.center 
+	{
+		text-align: center;
+	}
+	.format 
+	{
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.container 
+	{
 	}
 }
