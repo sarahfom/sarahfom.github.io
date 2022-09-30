@@ -7,12 +7,6 @@
 	background-color:#e0f6ff;
 	
 }
-.format 
-{
-	margin: 100px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-}
 .locyear 
 {
 	float: right;
@@ -136,6 +130,12 @@ footer
 	{
 			display: flex;
 	}
+	.format 
+	{
+		margin: 100px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
 }
 @media screen and (max-width: 600px) 
 {
@@ -156,6 +156,11 @@ footer
 	{
 		font-size: small;
 		float: right;
+	}
+	.format 
+	{
+		margin-top: 0px;
+		margin-bottom: 0px;
 	}
 }
 @media screen and (max-width: 400px) 
