@@ -12,6 +12,7 @@
 	float: right;
 	min-width:171px;
 	max-width:300px;
+	font-style: italic;
 }
 .center 
 {
@@ -84,7 +85,6 @@
 {
   	padding-left: 0px;
 }
-
 a 
 {
 	padding-right: 30px;
