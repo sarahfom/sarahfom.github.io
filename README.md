@@ -21,4 +21,4 @@ Lab4
 
 ### Say approximately how many hours you have spent completing the lab.
 
-* 13 hours.
+* 16 hours.
