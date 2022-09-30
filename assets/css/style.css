@@ -43,25 +43,7 @@
 	float: right;
 	margin-top: 15px;
 }
-a 
-{
-	padding-right: 30px;
-	text-decoration: none;
-	color: black;
-}
-a:visited 
-{
-	color: black;
-}
-a:hover 
-{
-	color: white;
-	text-decoration: underline;
-}
-a:active 
-{
-	color: black;
-}
+
 .border 
 {
 	background: #e0f6ff;
@@ -73,7 +55,8 @@ a:active
 }
 .introphoto 
 {
-	float: left;
+	height:305px; 
+	width: 450px;
 }
 
 .introtext 
@@ -99,6 +82,40 @@ a:active
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
+.nav {
+	list-style-type: none;
+	text-align: center;
+	padding: 14px 0px;
+	text-decoration: none;
+	justify-content: space-between;
+}
+.centermqnav 
+{
+  	padding-left: 0px;
+}
+.container 
+{
+		display: flex;
+}
+a 
+{
+	padding-right: 30px;
+	text-decoration: none;
+	color: black;
+}
+a:visited 
+{
+	color: black;
+}
+a:hover 
+{
+	color: white;
+	text-decoration: underline;
+}
+a:active 
+{
+	color: black;
+}
 h2 
 {
 	background: #87CEFA;
@@ -118,4 +135,44 @@ footer
 	padding: 14px 0px;
 	text-decoration: none;
 	justify-content: space-between;
+}
+@media screen and (max-width: 1000px) 
+{
+
+  h1 
+  {
+  	font-size: 30px;
+  }
+  h2 
+  {
+  	font-size: 20px;
+  }
+  .introphoto 
+{
+  height:205px; 
+	width: 350px;
+}
+
+}
+@media screen and (max-width: 600px) 
+{
+
+  h1 
+  {
+  	font-size: 30px;
+  }
+  h2 
+  {
+  	font-size: 20px;
+  }
+  .introphoto 
+  {
+  	width: 205px;
+  	height: 205px;
+  }
+	.rightfloat 
+	{
+		font-size: small;
+		float: right;
+	}
 }

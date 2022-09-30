@@ -13,12 +13,12 @@ Lab4
 
 ### Identify what aspects of the work have been correctly implemented and what have not.
 
-* Enter info here
+* Functionality wise, everything works as anticipated.
 
 ### Identify anyone with whom you have collaborated or discussed the lab.
 
-* Enter info here
+* No one.
 
 ### Say approximately how many hours you have spent completing the lab.
 
-* Enter info here
+* 13 hours.
